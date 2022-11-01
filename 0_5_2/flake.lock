@@ -39,10 +39,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-records-master": "src-records-master"
+        "src-records-0_5_2": "src-records-0_5_2"
       }
     },
-    "src-records-master": {
+    "src-records-0_5_2": {
       "flake": false,
       "locked": {
         "lastModified": 1662572608,
@@ -54,7 +54,7 @@
       },
       "original": {
         "owner": "rotu",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.5.2",
         "repo": "nim-records",
         "type": "github"
       }
